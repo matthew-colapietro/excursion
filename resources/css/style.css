@@ -15,9 +15,15 @@ body {
     font-weight: normal;
 }
 
-.download-link {
+a .download-link {
     color: aquamarine;
     font-size: 16px;
+    text-decoration: none;
+}
+
+a:visited {
+    text-decoration: none;
+    color: aquamarine;
 }
 
 /* Details Section */
