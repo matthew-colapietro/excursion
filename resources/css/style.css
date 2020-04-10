@@ -1,7 +1,4 @@
 /* Universal */
-html {
-    font-size: 16px;
-}
 
 body {
     background-color: black;
@@ -15,15 +12,16 @@ body {
 
 .title {
     color: white;
-    font-size: 3.125rem;
+    font-size: 50px;
     font-family: Verdana, sans-serif;
     text-align: center;
 }
 
 .download-link {
     color: aquamarine;
-    font-size: 1rem;
+    font-size: 16px;
     text-align: center;
+    text-decoration: underline;
 }
 
 /* Main Image */
@@ -37,19 +35,24 @@ body {
 
 .details {
     width: 100%;
-    align-content: center;
+    text-align: center;
 }
 
 .details-heading {
     font-family: Verdana, sans-serif;
-    font-size: 2.625rem;
+    font-size: 42px;
     font-weight: 300;
+    color: white;
 }
 
 .sub-heading {
     font-family: Verdana, sans-serif;
-    font-size: 1.31rem;
+    font-size: 21px;
     color: gray;
+}
+
+.phone-icon {
+    padding-top: 20px;
 }
 
 /* Footer */
