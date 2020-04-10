@@ -1,5 +1,63 @@
 /* Universal */
+html {
+    font-size: 16px;
+}
 
 body {
     background-color: black;
 }
+
+/* Header */
+
+.content {
+    width: 100%;
+}
+
+.title {
+    color: white;
+    font-size: 3.125rem;
+    font-family: Verdana, sans-serif;
+    text-align: center;
+}
+
+.download-link {
+    color: aquamarine;
+    font-size: 1rem;
+    text-align: center;
+}
+
+/* Main Image */
+
+.video {
+    width: 100%;
+    text-align: center;
+}
+
+/* Details Section */
+
+.details {
+    width: 100%;
+    align-content: center;
+}
+
+.details-heading {
+    font-family: Verdana, sans-serif;
+    font-size: 2.625rem;
+    font-weight: 300;
+}
+
+.sub-heading {
+    font-family: Verdana, sans-serif;
+    font-size: 1.31rem;
+    color: gray;
+}
+
+/* Footer */
+
+.footer {
+    width: 100%;
+    text-align: right;
+    color: gray;
+}
+
+
